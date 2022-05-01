@@ -1,0 +1,20 @@
+{
+  "data": {
+    "outages": [
+      {
+        "outageTime": "2020-01-01T01:00:00+00:00",
+        "duration": "PT2H30M",
+        "isPartial": false,
+        "explanation": "Atualização do API Gateway",
+        "unavailableEndpoints": []
+      }
+    ]
+  },
+  "links": {
+    "self": "https://api.banco.com.br/open-banking/discovery/v1/outages"
+  },
+  "meta": {
+    "totalRecords": 1,
+    "totalPages": 1
+  }
+}
